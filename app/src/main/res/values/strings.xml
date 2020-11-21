@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyAplicacion</string>
+    <string name="tituloDetall">Tus Datos</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="fnacimiento">Fecha de nacimiento</string>
+    <string name="descripcion">Descripción contacto</string>
+    <string name="guardar">Guardar</string>
+    <string name="pnombre">NOMBRE</string>
+    <string name="pnacimiento">FNACIMIENTO</string>
+    <string name="pTelefono">TELEFONO</string>
+    <string name="pEmail">EMAIL</string>
+    <string name="pDescripcion">DESCRIPCION</string>
+    <string name="btEditar">EDITAR</string>
+    <string name="confirmarDatos">Confirma tus datos</string>
+    <string name="tituloRegistro">Registro</string>
+</resources>
